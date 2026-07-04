@@ -2,7 +2,7 @@
 
 🎓 Cyber Security Student at FAST National University, Karachi
 
-I'm passionate about cybersecurity and building hands-on projects to gain practical experience across multiple security domains.
+I'm passionate about cybersecurity and currently building practical, hands-on projects to strengthen my skills in both offensive and defensive security.
 
 ---
 
@@ -15,12 +15,11 @@ I'm passionate about cybersecurity and building hands-on projects to gain practi
 
 ---
 
-## 💻 Technical Skills
+## 💻 Skills
 
 ### Programming
 - Python
 - C
-- Bash (Learning)
 
 ### Operating Systems
 - Windows
@@ -30,36 +29,29 @@ I'm passionate about cybersecurity and building hands-on projects to gain practi
 - TCP/IP
 - DNS
 - HTTP/HTTPS
-- Wireshark
 
 ### Security Tools
-- Wazuh (Learning)
-- Burp Suite
 - Nmap
+- Wireshark
+- Burp Suite
 - Metasploit
 - Nessus
-- OWASP Top 10
-
----
-
-## 🚀 Current Projects
-
-- 🛡️ SOC Home Lab
-- 📊 Wazuh SIEM Lab
-- 🔍 Threat Hunting Lab
-- 🌐 Web Penetration Testing Lab
-- 🕵️ Digital Forensics Lab
-- 🐍 Python Security Automation
 
 ---
 
 ## 📚 Currently Learning
 
+- Wazuh SIEM
 - Threat Hunting
 - Incident Response
-- Security Monitoring
-- SIEM
+- Digital Forensics
 - Active Directory Security
+
+---
+
+## 🎯 Current Goal
+
+Build a professional cybersecurity portfolio through real-world projects, labs, and CTFs, and prepare for roles in SOC, Information Security, Penetration Testing, and Digital Forensics.
 
 ---
 
