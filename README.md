@@ -96,4 +96,11 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mansoobiqbal&show_icons=true&theme=dark&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?usernam
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansoobiqbal&layout=compact&theme=dark&hide_border=true" width="48%"/>
+</p>
+
+---
+
+<p align="center">
+  ⭐️ Open to SOC Analyst & Penetration Testing opportunities — feel free to reach out!
+</p>
